@@ -1,1 +1,0 @@
-# ars_magica_covenant_manager_backend
